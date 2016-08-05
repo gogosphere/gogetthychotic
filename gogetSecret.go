@@ -14,7 +14,7 @@ import (
 	"strings"
 
 	"github.com/howeyc/gopass"
-	xmld "github.com/williamrhancock/xmlanswers"
+	xmld "github.com/gogosphere/xmlanswers"
 )
 
 const (
